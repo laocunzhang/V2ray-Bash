@@ -64,7 +64,7 @@ bash <(curl -L -s https://install.direct/go.sh)
 }
 
 clear
-echo 'V2Ray 一键安装|配置脚本 Author：Kirito && 雨落无声'
+echo 'V2Ray 一键安装|配置脚本 Author：d1ves'
 
 echo ''
 echo '此脚本会关闭iptables防火墙，切勿用于生产环境！'
@@ -387,13 +387,7 @@ EOF
 service v2ray start
 clear
 #INstall Success
-echo 'Telegram Group: https://t.me/functionclub'
-echo 'Google Puls: https://plus.google.com/communities/113154644036958487268'
-echo 'Github: https://github.com/FunctionClub'
-echo 'QQ Group:277717865'
-echo 'Function Club 无限期停更说明'
-echo 'https://www.ixh.me/2017/05/function-club-stop/'
-echo '教程地址：https://github.com/FunctionClub/V2ray-Bash/blob/master/README.md'
+echo '教程地址：https://github.com/d1ves/V2ray-Bash/blob/master/README.md'
 echo '配置完成，客户端配置文件在 /root/config.json'
 echo ''
 echo "程序主端口：$mainport"
