@@ -242,7 +242,7 @@ cat << EOF > config
             {
                 "id": "$uuid",
                 "level": $level,
-                "alterId": 100
+                "alterId": 1000
             }
         ],
         "detour": {
