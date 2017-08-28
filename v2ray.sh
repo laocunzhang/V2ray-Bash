@@ -324,7 +324,7 @@ cat << EOF > /root/config.json
                 "users": [
                     {
                         "id": "$uuid",
-                        "alterId": 100
+                        "alterId": 1000
                     }
                 ]
             }
